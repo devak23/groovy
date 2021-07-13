@@ -1,3 +1,5 @@
+import helpers.Email
+
 Email email = new Email()
 email.prospectName = "Leaky Pipes Plumbing"
 email.emailAddress = "joe.karl@leakypipes.com"

@@ -11,14 +11,14 @@ assert 'Hello World' == simple()
 
 def isEntitled(b) {
     if (b) {
-        "User is entitled"
+        "helpers.User is entitled"
     } else {
-        "User is not entitled"
+        "helpers.User is not entitled"
     }
 }
 
-assert 'User is entitled' == isEntitled(true)
-assert 'User is not entitled' == isEntitled(false)
+assert 'helpers.User is entitled' == isEntitled(true)
+assert 'helpers.User is not entitled' == isEntitled(false)
 
 
 def readFile(file) {
@@ -41,4 +41,4 @@ assert 'file contents' == readFile('test')
 new File('test').delete()
 
 
-println "All good here."
+println "---- End of program ----"

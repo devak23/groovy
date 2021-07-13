@@ -1,3 +1,5 @@
+package helpers
+
 class Email {
     String prospectName
     String emailAddress
@@ -5,6 +7,6 @@ class Email {
     String notes
 
     String getContents() {
-        "Recepient: $prospectName, Email: $emailAddress, Date: $sendDate, Summary: $notes"
+        "Recepient: $prospectName, helpers.Email: $emailAddress, Date: $sendDate, Summary: $notes"
     }
 }
