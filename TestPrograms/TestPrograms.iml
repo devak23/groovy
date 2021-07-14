@@ -18,6 +18,5 @@
         <jarDirectory url="file://$USER_HOME$/.sdkman/candidates/groovy/current/lib/extras-jaxb" recursive="false" />
       </library>
     </orderEntry>
-    <orderEntry type="library" name="groovy-3.0.8" level="application" />
   </component>
 </module>
