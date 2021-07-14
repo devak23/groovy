@@ -21,8 +21,8 @@ println guru.greeting()
 guru.says to: abhay, statement: "I am listening to Children - by Robert Miles"
 // Output: Guru: 'I am listening to Children - by Robert Miles'
 
-abhay.doSay abhay.name, 'Cool song dude!'
-// Output: Abhay: 'Cool song dude!'
+abhay.doSay abhay.name, 'Oh its a cool piece man!'
+// Output: Abhay: 'Oh its a cool piece man!'
 
 
 // Lookout with closures as the last element. The method can be invoked in several ways

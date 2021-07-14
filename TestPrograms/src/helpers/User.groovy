@@ -1,22 +1,26 @@
 package helpers
 
+import groovy.transform.EqualsAndHashCode
+
+@EqualsAndHashCode (includes = ["name"])
 class User {
     String name, email
-    def connections = []
+    Integer age
+    List<User> connections = []
 
-    def says(args) {
+    void says(args) {
         connections.find {it.name == args.to.name}.doSay(name, args.statement)
     }
 
-    def meets (user) {
+    void meets (user) {
         connections << user;
     }
 
-    def doSay (speaker, words) {
+    void doSay (speaker, words) {
         println "$speaker: '$words'"
     }
 
-    def greeting() {
+    String greeting() {
         "$name: hey mate!"
     }
 }
