@@ -1,5 +1,5 @@
-import helpers._16.Address
-import helpers._16.Person
+import model._16.Address
+import model._16.Person
 
 /**
  * When a method is invoked using named parameters, Groovy collects all named parameters and puts them into a map. The

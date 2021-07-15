@@ -1,4 +1,4 @@
-import helpers.User
+import model._09.User
 
 /*
 If Groovy knows the return type of a method, it will automatically cast our return value to that type.

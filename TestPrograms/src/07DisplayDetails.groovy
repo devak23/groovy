@@ -1,4 +1,4 @@
-import helpers._07.Email
+import model._07.Email
 
 Email email = new Email()
 email.prospectName = "Leaky Pipes Plumbing"

@@ -1,4 +1,4 @@
-import helpers.User
+import model._09.User
 
 /**
  * Groovy makes the code readable by small feature called optional parenthesis. If a method contains at least one

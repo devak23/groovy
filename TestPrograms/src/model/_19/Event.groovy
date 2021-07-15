@@ -1,6 +1,7 @@
 package model._19
 
-import helpers._16.Person
+import model._16.Person
+
 
 class Event {
     List<Person> attendees = []

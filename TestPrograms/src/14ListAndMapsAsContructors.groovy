@@ -1,4 +1,4 @@
-import helpers.User
+import model._09.User
 
 /**
  * We can use lists and maps to creat objects in Groovy. Groovy supports both implicit coersion (by type of the
