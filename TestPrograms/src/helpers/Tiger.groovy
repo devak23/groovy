@@ -1,4 +1,4 @@
 package helpers
 
-class Tiger extends TerristrialAnimal {
+class Tiger extends TerrestrialAnimal {
 }

@@ -1,5 +1,5 @@
 package helpers
 
-abstract class TerristrialAnimal {
+abstract class TerrestrialAnimal {
     String type
 }

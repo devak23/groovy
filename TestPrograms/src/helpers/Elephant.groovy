@@ -1,4 +1,4 @@
 package helpers
 
-class Elephant extends TerristrialAnimal {
+class Elephant extends TerrestrialAnimal {
 }
