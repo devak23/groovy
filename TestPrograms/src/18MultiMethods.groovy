@@ -1,7 +1,7 @@
-import helpers.Dog
-import helpers.Elephant
-import helpers.TerrestrialAnimal
-import helpers.Tiger
+import helpers._18.Dog
+import helpers._18.Elephant
+import helpers._18.TerrestrialAnimal
+import helpers._18.Tiger
 
 /**
  * Multi method or multi dispatch is a mechanism where at runtime, correct method is chosen based on runtime type

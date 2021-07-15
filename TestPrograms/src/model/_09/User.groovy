@@ -1,4 +1,4 @@
-package helpers
+package model._09
 
 import groovy.transform.EqualsAndHashCode
 

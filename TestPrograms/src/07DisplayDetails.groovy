@@ -1,4 +1,4 @@
-import helpers.Email
+import helpers._07.Email
 
 Email email = new Email()
 email.prospectName = "Leaky Pipes Plumbing"
