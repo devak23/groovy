@@ -1,9 +1,9 @@
 package playground.programs.syntax
 
-import playground.model._18.Dog
-import playground.model._18.Elephant
-import playground.model._18.TerrestrialAnimal
-import playground.model._18.Tiger
+import playground.programs.syntax.model._18.Dog
+import playground.programs.syntax.model._18.Elephant
+import playground.programs.syntax.model._18.TerrestrialAnimal
+import playground.programs.syntax.model._18.Tiger
 
 
 /**

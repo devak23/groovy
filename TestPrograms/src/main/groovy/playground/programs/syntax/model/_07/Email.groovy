@@ -1,4 +1,4 @@
-package playground.model._07
+package playground.programs.syntax.model._07
 
 class Email {
     String prospectName

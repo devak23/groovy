@@ -1,7 +1,7 @@
 package playground.programs.syntax
 
 
-import playground.model._09.User
+import playground.programs.syntax.model._09.User
 
 /**
  * Groovy overloads the == operator and maps it to the equals() method or the compareTo() method method on objects that

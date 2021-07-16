@@ -1,8 +1,8 @@
 package playground.programs.syntax
 
-import playground.model._16.Person
-import playground.model._19.Event
-import playground.model._19.Session
+import playground.programs.syntax.model._16.Person
+import playground.programs.syntax.model._19.Event
+import playground.programs.syntax.model._19.Session
 
 
 /**

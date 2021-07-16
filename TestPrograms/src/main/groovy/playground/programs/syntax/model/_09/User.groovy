@@ -1,4 +1,4 @@
-package playground.model._09
+package playground.programs.syntax.model._09
 
 import groovy.transform.EqualsAndHashCode
 

@@ -1,4 +1,4 @@
-package playground.model._18
+package playground.programs.syntax.model._18
 
 class Elephant extends TerrestrialAnimal {
 }

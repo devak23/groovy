@@ -1,7 +1,7 @@
 package playground.programs.syntax
 
-import playground.model._16.Address
-import playground.model._16.Person
+import playground.programs.syntax.model._16.Address
+import playground.programs.syntax.model._16.Person
 
 /**
  * When a method is invoked using named parameters, Groovy collects all named parameters and puts them into a map. The

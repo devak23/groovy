@@ -1,4 +1,4 @@
-package playground.model._16
+package playground.programs.syntax.model._16
 
 class Person {
     String name

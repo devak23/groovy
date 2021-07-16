@@ -1,6 +1,6 @@
 package playground.programs.syntax
 
-import playground.model._07.Email
+import playground.programs.syntax.model._07.Email
 
 
 Email email = new Email()

@@ -1,6 +1,6 @@
 package playground.programs.syntax
 
-import playground.model._09.User
+import playground.programs.syntax.model._09.User
 
 /**
  * Groovy has a with() method we can use to group method calls and property access to an object. The with() accepts a

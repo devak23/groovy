@@ -1,6 +1,6 @@
 package playground.programs.syntax
 
-import playground.model._09.User
+import playground.programs.syntax.model._09.User
 
 
 /**

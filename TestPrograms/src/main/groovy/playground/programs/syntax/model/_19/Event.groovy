@@ -1,6 +1,6 @@
-package playground.model._19
+package playground.programs.syntax.model._19
 
-import playground.model._16.Person
+import playground.programs.syntax.model._16.Person
 
 
 /**
