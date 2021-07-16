@@ -1,4 +1,4 @@
-package playground.programs
+package playground.programs.syntax
 
 def myOpportunity = 59999
 

@@ -1,4 +1,4 @@
-package playground.programs
+package playground.programs.syntax
 
 int opportunityOne = 1000
 int opportunityTwo = 2000

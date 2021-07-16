@@ -1,4 +1,4 @@
-package playground.programs
+package playground.programs.syntax
 /**
  * To implement an interface we can use Groovy Map and with the as keyword, we can pass it to a method.
  */

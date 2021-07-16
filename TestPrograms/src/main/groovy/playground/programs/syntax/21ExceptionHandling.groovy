@@ -1,4 +1,4 @@
-package playground.programs
+package playground.programs.syntax
 
 /**
  * Groovy follows Java's exception handling with a twist. In Groovy, every exception is optional including the checked

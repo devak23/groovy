@@ -1,4 +1,4 @@
-package playground.programs
+package playground.programs.syntax
 
 // parse() to convert string to date
 date = new Date().parse('yyyy/MM/dd', '1973/07/09')

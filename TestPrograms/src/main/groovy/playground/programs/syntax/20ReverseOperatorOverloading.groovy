@@ -1,4 +1,4 @@
-package playground.programs
+package playground.programs.syntax
 
 /**
  * One of the nice features of Groovy is operator overloading. Operator overloading also means the operators we know

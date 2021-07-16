@@ -6,7 +6,12 @@ import groovy.transform.EqualsAndHashCode
 class User {
     String name, email
     Integer age
+    List<String> labels = []
     List<User> connections = []
+
+    def introduce() {"I am $name"}
+
+    def addLabel(value) { labels << value }
 
     void says(args) {
         connections.find {it.name == args.to.name}.doSay(name, args.statement)

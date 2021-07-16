@@ -1,4 +1,4 @@
-package playground.programs
+package playground.programs.syntax
 /*
   We can omit the return keyword at the end of the method. This is even true when the last statement is a conditional
   statement or a try-catch block.

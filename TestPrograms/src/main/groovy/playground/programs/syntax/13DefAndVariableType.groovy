@@ -1,4 +1,4 @@
-package playground.programs
+package playground.programs.syntax
 
 import org.codehaus.groovy.runtime.typehandling.GroovyCastException
 

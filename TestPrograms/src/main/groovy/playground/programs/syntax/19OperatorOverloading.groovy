@@ -1,4 +1,4 @@
-package playground.programs
+package playground.programs.syntax
 
 import playground.model._16.Person
 import playground.model._19.Event

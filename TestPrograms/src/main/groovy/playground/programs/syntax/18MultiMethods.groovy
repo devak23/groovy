@@ -1,4 +1,4 @@
-package playground.programs
+package playground.programs.syntax
 
 import playground.model._18.Dog
 import playground.model._18.Elephant

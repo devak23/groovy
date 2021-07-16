@@ -1,4 +1,4 @@
-package playground.programs
+package playground.programs.syntax
 /*
     We can assign the 'as keyword' to static imports.
 */

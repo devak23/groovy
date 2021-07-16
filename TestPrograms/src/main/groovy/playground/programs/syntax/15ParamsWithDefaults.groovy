@@ -1,4 +1,4 @@
-package playground.programs
+package playground.programs.syntax
 /**
  * Default values ca be assigned to parameters in a method. Groovy supports two method signatures one with params
  * and one where the parameter with default value is omitted. If multiple default values are specified, the one on
