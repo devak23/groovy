@@ -6,8 +6,13 @@ import groovy.transform.EqualsAndHashCode
 class User {
     String name, email
     Integer age
+    boolean active
     List<String> labels = []
     List<User> connections = []
+
+    boolean asBoolean() {
+        active
+    }
 
     def introduce() {"I am $name"}
 
