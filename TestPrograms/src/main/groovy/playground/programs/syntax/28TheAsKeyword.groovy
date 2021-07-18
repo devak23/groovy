@@ -3,8 +3,7 @@ package playground.programs.syntax
 import java.text.MessageFormat as mf // Alias mf to MessageFormat
 
 /**
- *
- *  We can change the type of an object with the 'as keyword'. We can make maps and closures look like interface
+ * We can change the type of an object with the 'as keyword'. We can make maps and closures look like interface
  *  implementations. We can use as in the imports to create an alias.
  */
 
