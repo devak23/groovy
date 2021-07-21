@@ -9,4 +9,9 @@ class Email {
     String getContents() {
         "Recepient: $prospectName, EmailAddress: $emailAddress, Date: $sendDate, Summary: $notes"
     }
+
+    // Using keywords as method names
+    String 'switch' () {
+        prospectName = prospectName.reverse()
+    }
 }
