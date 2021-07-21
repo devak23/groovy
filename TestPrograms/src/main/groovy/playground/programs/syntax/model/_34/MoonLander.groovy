@@ -4,5 +4,6 @@ trait MoonLander {
     def land() {
         "${getName()} has landed!"
     }
+    String activateLandingGear() { "${getName()} landing gear activated."}
     abstract String getName()
 }
