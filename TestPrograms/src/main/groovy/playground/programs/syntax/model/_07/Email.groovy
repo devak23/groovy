@@ -7,6 +7,6 @@ class Email {
     String notes
 
     String getContents() {
-        "Recepient: $prospectName, helpers._16.Email: $emailAddress, Date: $sendDate, Summary: $notes"
+        "Recepient: $prospectName, EmailAddress: $emailAddress, Date: $sendDate, Summary: $notes"
     }
 }
